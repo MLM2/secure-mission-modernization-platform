@@ -57,7 +57,28 @@ This project focuses on:
 - Security Scanning
 - CI/CD Deployment Coordination
 
+## AWS Services Referenced
+
+- Amazon S3
+- AWS Lambda
+- Amazon API Gateway
+- AWS IAM
+- Amazon CloudWatch
+- AWS CloudTrail
+- Amazon SageMaker (conceptual AI workflow alignment)
 ---
+
+## Operational Considerations
+
+Monitoring and auditability are critical in mission-oriented environments. This architecture incorporates centralized logging, governance checkpoints, and infrastructure validation concepts to support operational resilience, traceability, and secure modernization.
+
+Key operational considerations include:
+
+- Centralized logging for auditability and troubleshooting
+- Access governance using IAM and ABAC concepts
+- Infrastructure validation through Terraform and CI/CD checks
+- Monitoring of pipeline activity and system events
+- Clear separation between ingestion, processing, storage, and governance layers
 
 ## Repository Structure
 
