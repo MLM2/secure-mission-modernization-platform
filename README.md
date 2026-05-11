@@ -66,6 +66,7 @@ This project focuses on:
 - Amazon CloudWatch
 - AWS CloudTrail
 - Amazon SageMaker (conceptual AI workflow alignment)
+
 ---
 
 ## Operational Considerations
