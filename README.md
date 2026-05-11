@@ -20,7 +20,7 @@ This project focuses on:
 
 ## Reference Architecture
 
-(Architecture diagram coming next)
+![Architecture Diagram](architecture-diagram.png)
 
 ---
 
