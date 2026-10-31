@@ -4,7 +4,7 @@
 
 This repository demonstrates a secure cloud modernization reference architecture aligned to mission-oriented environments supporting AI-enabled analytics, DevSecOps workflows, and Zero Trust principles.
 
-The platform is designed to illustrate how classified or highly regulated organizations can modernize mission systems using secure cloud infrastructure, enterprise integration patterns, and governance-aligned AI workflows.
+The reference architecture illustrates how federal agencies and other highly regulated organizations can approach mission-system modernization through secure cloud infrastructure, enterprise integration patterns, and governance-aligned AI workflows.
 
 This project focuses on:
 - Secure cloud modernization
